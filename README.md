@@ -11,7 +11,6 @@ Exploratory Data Analysis (EDA) project that applies Natural Language Processing
 
 ## Files
 - `analysis.ipynb` → Jupyter Notebook with full analysis
-- `ANALYSIS_Report.pdf` → PDF report (detailed project writeup)
 - `requirements.txt` → list of dependencies
 
 ## Dataset
