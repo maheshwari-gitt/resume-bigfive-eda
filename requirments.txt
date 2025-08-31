@@ -1,0 +1,22 @@
+#importing all libraries 
+import pandas as pd
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from nltk.sentiment import SentimentIntensityAnalyzer
+import re
+import seaborn as sns
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+
+# Download necessary NLTK resources
+nltk.download('punkt', force=True)
+nltk.download('stopwords', force=True)
+nltk.download('wordnet', force=True)
+nltk.download('vader_lexicon', force=True)
+
+# Load the dataset
+df = pd.read_csv(r"datas\myDataset.csv")
