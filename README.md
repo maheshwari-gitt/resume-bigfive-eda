@@ -11,12 +11,12 @@ Exploratory Data Analysis (EDA) project that applies Natural Language Processing
 
 ## Files
 - `analysis.ipynb` → Jupyter Notebook with full analysis
-- `MidTerm_PWD_Report.pdf` → PDF report (project writeup)
+- `ANALYSIS_Report.pdf` → PDF report (project writeup)
 - `requirements.txt` → list of dependencies
 
 ## Dataset
-Resume dataset originally sourced from Kaggle ("Resume Dataset").  
-Due to size restrictions, not included here.
+Resume dataset originally sourced from Kaggle ("myDataset").  
+
 
 ## Results
 Key findings:
