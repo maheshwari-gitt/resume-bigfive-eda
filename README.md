@@ -16,16 +16,16 @@ Developed a robust pipeline for cleaning and preparing raw resume text using fun
 - **Regex Cleaning**: Using regular expressions for systematic cleanup  
 
 ###  Trait Scoring & Feature Engineering
-Engineered a scoring system to quantify Big Five personality traits by combining:
+Developed a scoring system to quantify Big Five personality traits by combining:
 - **Sentiment Analysis (VADER)**: Measuring emotional tone  
 - **Keyword Mapping**: Using curated word lists tied to each trait  
 - **Vocabulary Richness**: Evaluating language diversity per resume  
 
 ###  Exploratory Data Analysis (EDA)
-Performed EDA to uncover patterns and correlations between personality traits and job sectors.
+Conducted EDA to uncover patterns and correlations between personality traits and job sectors.
 
 ###  Visualizations
-Created compelling visualizations using **Matplotlib** and **Seaborn** to clearly present insights, including bar charts and heatmaps.
+Created visualizations using **Matplotlib** and **Seaborn** to clearly present insights, including bar charts and heatmaps.
 
 ---
 
