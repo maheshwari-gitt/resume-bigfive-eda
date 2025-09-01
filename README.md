@@ -48,7 +48,8 @@ Created visualizations using **Matplotlib** and **Seaborn** to clearly present i
 
 ##  Project Files
 
-- `analysis.ipynb`: Jupyter Notebook containing the complete pipeline and analysis  
+- `analysis.ipynb`: Jupyter Notebook containing the complete pipeline and analysis
+- `EDA_report.pdf`: PDF containing the complete EDA report
 - `requirements.txt`: Python dependencies for environment setup  
 
 ---
